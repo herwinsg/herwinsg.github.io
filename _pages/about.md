@@ -8,7 +8,7 @@ header:
   #actions:
   #  - label: "See More"
   #    url: /weekend_stories/2021/2021-03_Stray_around_3/
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
