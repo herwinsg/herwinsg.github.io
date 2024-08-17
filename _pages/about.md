@@ -1,6 +1,13 @@
 ---
 permalink: /
 title: "About"
+header:
+  overlay_image: img_header.jpg
+  og_image: img_header.jpg
+  #caption: "Photo from the series: [**Straying around**](/weekend_stories/2021/2021-03_Stray_around_3/)"
+  #actions:
+  #  - label: "See More"
+  #    url: /weekend_stories/2021/2021-03_Stray_around_3/
 author_profile: true
 redirect_from: 
   - /about/
