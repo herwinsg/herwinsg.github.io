@@ -9,12 +9,7 @@ redirect_from:
 
 I am an enthusiastic learner with a deep passion for both science and computing. I completed my undergraduate studies in Physics with Computing at the University of Mauritius. Previously, I worked in the Space Unit at the Mauritius Research and Innovation Council, where I explored my interests in satellite technology and remote sensing. My journey also allowed me to represent Mauritius on the global stage at the 73rd Lindau Nobel Laureates Meeting, where I had the chance to engage with Nobel Prize winners and support important initiatives like the Mainau Declaration 2024 on Nuclear Weapons. I am always excited to dive into new ideas, especially in machine learning and the physical sciences, driven by a love for innovation and discovery. 
 
-$$ E = mc^2 $$
 
-jhjb
-
-
-<!--
 $$
  \overbrace{P(\theta| D, I)}^{\text{posterior}} = \frac{\overbrace{P(D | \theta, I)}^{\text{likelihood}}\overbrace{P(\theta|I)}^{\text{prior}}}{\underbrace{P(D|I)}_{\text{marginal likelihood}}}
  $$
