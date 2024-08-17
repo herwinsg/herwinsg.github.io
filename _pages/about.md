@@ -9,11 +9,11 @@ redirect_from:
 
 I am an enthusiastic learner with a deep passion for both science and computing. I completed my undergraduate studies in Physics with Computing at the University of Mauritius. Previously, I worked in the Space Unit at the Mauritius Research and Innovation Council, where I explored my interests in satellite technology and remote sensing. My journey also allowed me to represent Mauritius on the global stage at the 73rd Lindau Nobel Laureates Meeting, where I had the chance to engage with Nobel Prize winners and support important initiatives like the Mainau Declaration 2024 on Nuclear Weapons. I am always excited to dive into new ideas, especially in machine learning and the physical sciences, driven by a love for innovation and discovery. 
 
-
+<!--
 $$
  \overbrace{P(\theta| D, I)}^{\text{posterior}} = \frac{\overbrace{P(D | \theta, I)}^{\text{likelihood}}\overbrace{P(\theta|I)}^{\text{prior}}}{\underbrace{P(D|I)}_{\text{marginal likelihood}}}
  $$
-
+-->
  
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
