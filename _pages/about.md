@@ -36,6 +36,26 @@ def plot_beta(a,b,ax, print_interval=True):
         print("Interval containing 95% of the distribution: ", dist.interval(0.95))
 ~~~
 
+{% highlight python %}
+from scipy.stats import beta
+import matplotlib.pyplot as plt
+import numpy as np
+
+# helper function for plotting
+def plot_beta(a,b,ax, print_interval=True):
+    ax.set_xlabel("p")
+    ax.set_ylabel("probability density")
+    x = np.linspace(0.00,1, 100)
+    label = "$\\alpha= " + str(a) + ", \\beta=" + str(b) + "$"
+    dist = beta(a,b)
+    # plot density
+    ax.plot(x, dist.pdf(x),
+            lw=2, alpha=0.6, label=label)
+    # determine the 95% HDI
+    if print_interval:
+        print("Interval containing 95% of the distribution: ", dist.interval(0.95))
+{% endhighlight %}
+
 Testing equation:
 
 $$
